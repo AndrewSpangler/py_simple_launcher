@@ -1,0 +1,17 @@
+[build-system]
+requires = ['setuptools>=61.0']
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "py_simple_launcher"
+version = "0.0.1"
+description = "Super simple dynamic, multi-profile launcher system"
+readme = "README.md"
+requires-python = ">=3.8"
+classifiers = ['Development Status :: 1 - Planning', 'Environment :: Console', 'License :: OSI Approved :: GNU General Public License v3 or later (GPLv3+)', 'Natural Language :: English', 'Operating System :: OS Independent', 'Programming Language :: Python :: 3', 'Programming Language :: Python :: 3.8', 'Programming Language :: Python :: 3.9', 'Programming Language :: Python :: 3.10']
+dependencies = ['py_simple_ttk']
+keywords = []
+
+[project.urls]
+"Homepage" = "https://github.com/AndrewSpangler/py_simple_launcher/"
+"Bug Tracker" = "https://github.com/AndrewSpangler/py_simple_launcher/issues"

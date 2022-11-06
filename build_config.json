@@ -1,0 +1,13 @@
+{
+	"name":"py_simple_launcher",
+	"author":"Andrew Spangler",
+	"version":"0.0.1",
+	"license":"GPLv3",
+	"email":"AndrewSpangler@users.noreply.github.com",
+	"description":"Super simple dynamic, multi-profile launcher system",
+	"requirements":["py_simple_ttk"],
+	"url":"https://github.com/AndrewSpangler/",
+	"changelog": {
+		"0.0.1":"Push"
+	}
+}
